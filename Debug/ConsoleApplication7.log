@@ -1,0 +1,6 @@
+﻿  ConsoleApplication7.cpp
+  Source.cpp
+c:\users\happy-pc\source\repos\consoleapplication7\consoleapplication7\source.cpp(49): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\happy-pc\source\repos\consoleapplication7\consoleapplication7\source.cpp(103): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  ConsoleApplication7.vcxproj -> C:\Users\Happy-PC\source\repos\ConsoleApplication7\Debug\ConsoleApplication7.exe
